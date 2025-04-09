@@ -10,5 +10,9 @@ public class MyFirstClass {
         while (!isValid) {
             System.out.println("hello");
         }
+
+        while (!isValid) {
+
+        }
     }
 }
