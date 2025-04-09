@@ -11,8 +11,5 @@ public class MyFirstClass {
             System.out.println("hello");
         }
 
-        while (!isValid) {
-
-        }
     }
 }
