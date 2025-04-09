@@ -7,12 +7,12 @@ public class MyFirstClass {
         }
         System.out.println();
 
-        while (!isValid) {
-            System.out.println("hello");
-        }
 
-        System.out.println("HeLLO");
-        System.out.println("HeLLO");
+
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println();
+        }
 
         System.out.println("HeLLO");
 
