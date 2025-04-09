@@ -11,5 +11,7 @@ public class MyFirstClass {
             System.out.println("hello");
         }
 
+        System.out.println("HeLLO");
+
     }
 }
