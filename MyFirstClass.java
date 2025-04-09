@@ -14,6 +14,7 @@ public class MyFirstClass {
         System.out.println("HeLLO");
         System.out.println("HeLLO");
 
+        System.out.println("HeLLO");
 
     }
 }
